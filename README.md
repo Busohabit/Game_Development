@@ -1,4 +1,5 @@
 # Game_Development
+GIT LFS USED
 To play this game. You use the W,A,S,D keys on your keyboard and the Spacebar to jump.
 W = Move forward
 A = Move left 
