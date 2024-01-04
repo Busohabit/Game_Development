@@ -359,10 +359,11 @@
 "Assets/FinishLIne.cs"
 "Assets/Move.cs"
 "Assets/MovingPlatform.cs"
-"Assets/ScenesManager.cs"
 "Assets/Scripts/DontDestroy.cs"
 "Assets/Scripts/GameControl.cs"
 "Assets/Scripts/Manage.cs"
+"Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/PlayerJump.cs"
 "Assets/Scripts/playerMovement.cs"
 "Assets/Scripts/timer.cs"
 -langversion:9.0
