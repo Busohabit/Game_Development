@@ -15,3 +15,6 @@ The objective of the game is to jump across the various platforms and reach the 
 Credits to Dungeon Mason (Unity Asset Store) for:
 RPG Monster Partners PBR Polyart
 RPG Tiny Hero Duo PBR Polyart
+
+
+Other assets such as environment are made by us
