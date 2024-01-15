@@ -10,3 +10,8 @@ Use mouse to click different level options
 Jump on enemies to eliminate them and collect coins along the way.
 
 The objective of the game is to jump across the various platforms and reach the end goal. Once this has been done, a screen telling you that you have completed the level should appear.
+
+
+Credits to Dungeon Mason (Unity Asset Store) for:
+RPG Monster Partners PBR Polyart
+RPG Tiny Hero Duo PBR Polyart
